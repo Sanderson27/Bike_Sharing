@@ -6,4 +6,4 @@
 ## Analysis: 
 
   We first Determines the number of rides in August in NYC was 2,344,224.
-![](images/Screen%20Shot%202022-06-23%20at%20%205.52.06%20PM.png)
+![](Images/Screen%20Shot%202022-06-23%20at%20%205.52.06%20PM.png)
