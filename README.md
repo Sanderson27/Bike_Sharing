@@ -22,3 +22,9 @@ Next, show above is peak usage hours. This shows us when a good time to perform 
 
 The graph above shows what bikes have been used the most and the least. The white in the bottom right represents not many uses and then moving right to left from green to red. Red being the most heavily used bikes. This is also important information for repairs and keeping quality among all bikes similar over time.
 
+
+In continuing this research I have created a Tableau story that digs further into NYC data primarily regarding user demographics.
+
+please see my Tableau Repository Here. 
+https://public.tableau.com/app/profile/samuel.anderson4733
+
