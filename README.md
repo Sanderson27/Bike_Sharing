@@ -25,6 +25,10 @@ The graph above shows what bikes have been used the most and the least. The whit
 
 In continuing this research I have created a Tableau story that digs further into NYC data primarily regarding user demographics.
 
-please see my Tableau Repository Here. 
+See a Tableau story digging further into CitiBike Demographics data here: 
+https://public.tableau.com/authoring/NYC_CItiBike_Challenge/NYCCitiBikeStory#1
+
+
+Full Tableau Repository can be seen here:
 https://public.tableau.com/app/profile/samuel.anderson4733
 
